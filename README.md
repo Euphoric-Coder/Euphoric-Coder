@@ -32,8 +32,6 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
 ---
 ![Euphoric-Coder's Stats](https://github-readme-stats.vercel.app/api?username=Euphoric-Coder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Euphoric-Coder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Euphoric-Coder&theme=vue-dark&hide_border=true)
-
 ![Euphoric-Coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Euphoric-Coder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
