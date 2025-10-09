@@ -1,13 +1,13 @@
 # Hi there, I'm Sagnik 👋
 
-🚀 **Full-Stack Developer | AI & Cloud Enthusiast | CS Undergrad at BITS Pilani**  
+**Full-Stack Developer | AI & Cloud Enthusiast | CS Undergrad at BITS Pilani**  
 
 I’m passionate about building modern web applications that blend **scalable backends, clean UI/UX, and AI-driven features**.  
 What drives me is turning complex ideas into intuitive, impactful projects that solve real-world problems.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Java, C++, JavaScript, TypeScript, Python  
 - **Frameworks & Tools:** React.js, Next.js, Express.js, Node.js, Tailwind CSS, ShadCN UI  
 - **Databases:** MongoDB, PostgreSQL (NeonDB), MySQL, ConvexDB  
@@ -16,7 +16,7 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 - **[Live Story – Life-in-Weeks Timeline](https://github.com/Euphoric-Coder/Live-Story)**  
   Interactive timeline with color-coded events & jsPDF export, Top 3 hackathon finalist.
 
@@ -36,12 +36,12 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - [Portfolio](https://sagniksportfolio.netlify.app)  
 - [LinkedIn](https://linkedin.com/in/sagnik-dey475)  
 - [GitHub](https://github.com/Euphoric-Coder)  
-- 📧 Email: **deydsagnik48@gmail.com**  
+- Email: **deydsagnik48@gmail.com**  
 
 ---
 
-⭐️ From [Sagnik Dey](https://github.com/Euphoric-Coder)
+From [Sagnik Dey](https://github.com/Euphoric-Coder)
