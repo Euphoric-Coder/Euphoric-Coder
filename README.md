@@ -26,7 +26,7 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
 - **[ColdConnect – AI Cold Email Generator](https://github.com/Euphoric-Coder/ColdConnect)**  
   Tailors resumes & cold emails to job descriptions with semantic search + FastAPI backend.  
 
-- **[Code Blog – Developer Blogging Platform](https://github.com/Euphoric-Coder/Code-Blog)**  
+- **[Dev Block – Developer Blogging Platform](https://github.com/Euphoric-Coder/Code-Blog)**  
   Markdown-based blogging platform with syntax highlighting, comments, and theme switcher.  
 
 ---
@@ -37,7 +37,7 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
 ---
 
 ## Let’s Connect
-- [Portfolio](https://sagniksportfolio.netlify.app)  
+- [Portfolio](https://sagnikportfolio.vercel.app/)  
 - [LinkedIn](https://linkedin.com/in/sagnik-dey475)  
 - [GitHub](https://github.com/Euphoric-Coder)  
 - Email: **deydsagnik48@gmail.com**  
