@@ -1,6 +1,6 @@
 # Hi there, I'm Sagnik 👋
 
-**Full-Stack Developer | AI & Cloud Enthusiast | CS Undergrad at BITS Pilani**  
+**Full-Stack Developer | AI & Cloud Enthusiast**  
 
 I’m passionate about building modern web applications that blend **scalable backends, clean UI/UX, and AI-driven features**.  
 What drives me is turning complex ideas into intuitive, impactful projects that solve real-world problems.  
