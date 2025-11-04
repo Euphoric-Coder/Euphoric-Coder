@@ -30,9 +30,9 @@ What drives me is turning complex ideas into intuitive, impactful projects that 
   Markdown-based blogging platform with syntax highlighting, comments, and theme switcher.  
 
 ---
-![Euphoric-Coder's Stats](https://github-readme-stats.vercel.app/api?username=Euphoric-Coder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Euphoric-Coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Euphoric-Coder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Euphoric-Coder's Streak](https://ik.imagekit.io/5zzchrjn8/Screenshot%202025-09-22%20at%209.54.31%E2%80%AFPM.png?updatedAt=1758558353647)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euphoric-coder&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoric-coder&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=euphoric-coder&theme=dark&hide_border=true)
 
 ---
 
