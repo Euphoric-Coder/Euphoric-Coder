@@ -22,45 +22,65 @@ My focus is not only on writing code, but on building products that feel complet
 
 ## About Me
 
-I am a Computer Science student and full-stack developer who enjoys building software that solves real problems.
+I am a **Computer Science student, full-stack developer, and AI/cloud enthusiast** who enjoys building software that is practical, scalable, and useful in real-world scenarios.
 
-I like working across the complete development cycle — from planning features and designing the user experience to building scalable backend logic, integrating databases, adding authentication, connecting AI workflows, deploying applications, and refining the final product.
+I like working across the complete product development cycle — from understanding the problem and planning features to designing clean user interfaces, building backend logic, modeling databases, implementing authentication, integrating AI workflows, deploying applications, and improving the final user experience.
 
-My projects usually focus on practical use cases such as civic-tech, finance, productivity, developer tools, automation, AI assistants, dashboards, and real-time platforms.
+My work usually focuses on projects that go beyond simple UI screens. I enjoy building systems with **real user roles, dashboards, workflows, automation, data handling, and production-style architecture**.
 
-I believe a strong project should have three things:
+Some of the areas I actively build around include **civic-tech, healthcare systems, finance tools, developer platforms, AI assistants, productivity apps, automation workflows, mobile apps, and data-driven dashboards**.
 
-* A clear real-world purpose
-* A smooth and thoughtful user experience
-* A solid technical foundation behind the scenes
+For me, a strong project is not only about using a modern tech stack. It should also have:
 
-That is the kind of software I try to build.
+* **A clear real-world problem** that the product is trying to solve
+* **A smooth and thoughtful user experience** that feels easy to use
+* **A reliable technical foundation** with clean architecture and maintainable code
+* **A practical workflow** that reflects how real users would interact with the system
+* **A scalable structure** that can grow beyond a basic prototype
+
+That is the kind of software I try to build — products that are clean, meaningful, and technically strong.
 
 ---
 
 ## What I Do
 
-I work mainly around full-stack product development, AI-powered applications, and cloud-ready systems.
+I work mainly around **full-stack product development, AI-powered applications, mobile workflows, and cloud-ready systems**. I enjoy connecting frontend, backend, database, authentication, AI, and deployment layers into complete applications.
 
 ### Frontend Engineering
 
-I build responsive, clean, and modern interfaces using React, Next.js, Tailwind CSS, ShadCN UI, and component-based design patterns.
+I build **responsive, clean, and modern interfaces** using **React.js, Next.js, Tailwind CSS, ShadCN UI, Radix UI, and component-based design patterns**.
+My focus is on creating interfaces that are visually polished, easy to use, and structured around real user workflows.
 
 ### Backend Development
 
-I design backend systems with APIs, authentication, database models, role-based access, server-side workflows, and business logic.
+I design backend systems with **APIs, authentication, database models, role-based access control, server-side workflows, and business logic**.
+I enjoy building systems where the backend is not just storing data, but actively supporting real operations such as approvals, assignments, status updates, dashboards, and analytics.
 
 ### AI Integration
 
-I build AI-powered features using tools like LangChain, Groq, Gemini AI, semantic search, vector databases, and intelligent automation pipelines.
+I build AI-powered features using **LangChain, Groq, Gemini AI, ChromaDB, semantic search, RAG workflows, and intelligent automation pipelines**.
+I like using AI where it adds practical value, such as classification, summarization, recommendations, document understanding, content generation, and workflow automation.
 
 ### Mobile Development
 
-I work with React Native and Expo to build mobile-first applications with role-based flows, dashboards, and real-time data interaction.
+I work with **React Native and Expo** to build mobile-first applications with **role-based flows, dashboards, secure navigation, and real-time data interaction**.
+I especially enjoy building mobile workflows for field-based use cases where users need fast access to tasks, updates, and operational data.
 
 ### Cloud & Deployment
 
-I deploy and manage applications using platforms like Vercel, Render, Netlify, AWS, and Google Cloud.
+I deploy and manage applications using platforms like **Vercel, Render, Netlify, AWS, and Google Cloud**.
+My focus is on making projects accessible, stable, and ready to be demonstrated or used beyond a local development environment.
+
+### Data & Dashboard Systems
+
+I build dashboards and data-driven views that help users understand activity, performance, progress, and operational status.
+This includes **admin dashboards, analytics cards, status filters, SLA tracking, user metrics, issue monitoring, and workflow summaries**.
+
+### Product Thinking
+
+I approach projects with a product-first mindset. Before building a feature, I try to think about **who will use it, why it matters, how it fits into the workflow, and how it improves the overall experience**.
+
+I believe good software is a balance of **engineering, design, usability, and purpose**.
 
 ---
 
@@ -74,6 +94,7 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frontend Development
@@ -81,10 +102,20 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### UI, Styling & Component Libraries
+
+<p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_UI-111827?style=for-the-badge" />
 </p>
 
 ### Backend Development
@@ -93,8 +124,20 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth-111827?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server_Actions-111827?style=for-the-badge" />
+</p>
+
+### Authentication & Security
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protected_Routes-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Secure_Sessions-334155?style=for-the-badge" />
 </p>
 
 ### Databases & Backend Platforms
@@ -105,6 +148,7 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=000" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000" />
 </p>
 
 ### AI, LLMs & Automation
@@ -114,11 +158,34 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic_Search-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG_Systems-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Search-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Automation-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
 </p>
 
-### Cloud, Deployment & Tools
+### Data, Analytics & Processing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-1E293B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Quality-2563EB?style=for-the-badge" />
+</p>
+
+### Maps, Location & APIs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Places_API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geocoding_API-FBBC04?style=for-the-badge&logo=googlemaps&logoColor=000" />
+  <img src="https://img.shields.io/badge/Geo_Tagging-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location_Based_Systems-1D4ED8?style=for-the-badge" />
+</p>
+
+### Cloud, Deployment & Hosting
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -126,8 +193,20 @@ I deploy and manage applications using platforms like Vercel, Render, Netlify, A
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
 </p>
+
+### Developer Tools & Workflow
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo_CLI-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
 
 ---
 
@@ -164,7 +243,7 @@ CityCare is built as a complete ecosystem with a citizen-facing web application,
 
 ### Tech Used
 
-Next.js, React Native (Expo), ConvexDB, NextAuth, Upstash, Resend, Gemini AI, Google Maps API
+**Next.js, React Native (Expo), ConvexDB, NextAuth, Upstash, Resend, Gemini AI, Google Maps API**
 
 ### Why It Stands Out
 
@@ -200,7 +279,7 @@ A full-stack hospital management platform designed to digitize and streamline ho
 
 ### Tech Used
 
-**Next.js, Drizzle ORM, NeonDB, PostgreSQL, NextAuth, Tailwind CSS, ShadCN UI**
+**Next.js, JavaScript, Tailwind CSS, ShadCN UI, Drizzle ORM, PostgreSQL (NeonDB), NextAuth, jsPDF**
 
 ### Why It Stands Out
 
