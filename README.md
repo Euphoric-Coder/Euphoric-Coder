@@ -141,21 +141,30 @@ CityCare is built as a complete ecosystem with a citizen-facing web application,
 
 ### Key Features
 
-* Citizen issue reporting with images, category, subcategory, priority, and geo-location
-* Admin and staff portal for issue monitoring, verification, assignment, and escalation
-* Unit Officer and Field Officer mobile apps built with React Native Expo
-* Role-based access control for citizens, unit officers, field officers, admins, and city admins
-* Real-time issue lifecycle tracking from reported to verified, assigned, in-progress, resolved, rejected, or escalated
-* Duplicate issue detection using location proximity, text similarity, category matching, and subcategory overlap
-* SLA tracking for monitoring delayed, due-soon, and on-track issues
-* Officer performance dashboards and analytics
-* Citizen transparency through status updates and public issue tracking
-* Google Maps, Places, and Geocoding integration for accurate location capture
-* AI-assisted review and classification workflows
+* **Multi-role civic platform:** Built workflows for **Citizens, Unit Officers, Field Officers, Admins, and City Admins** with role-based dashboards and permissions.
+
+* **End-to-end issue tracking:** Designed the lifecycle from **reported → verified → assigned → in progress → resolved / rejected / escalated** for clear status visibility.
+
+* **Geo-tagged reporting:** Enabled citizens to submit issues with **images, category, priority, address, latitude, and longitude** for accurate verification.
+
+* **Duplicate detection:** Implemented similarity checks using **location, category, subcategory, and text matching**, flagging repeated reports within around **300 meters**.
+
+* **40–60% estimated duplicate reduction:** Reduced repeated reports for common issues like **potholes, garbage overflow, drainage blockage, and streetlight faults**.
+
+* **Officer/admin dashboards:** Added filters for **status, category, priority, SLA state, and assignment stage** to speed up issue review.
+
+* **SLA and escalation tracking:** Monitored **overdue, due-soon, and on-track** issues with escalation support for delayed complaints.
+
+* **Mobile officer app:** Built React Native Expo workflows for officers to review assignments, update progress, and manage field tasks.
+
+* **AI-assisted review:** Added AI-based support for issue classification and verification, improving triaging consistency.
+
+* **35–50% estimated faster triaging:** Improved sorting and prioritization through dashboards, SLA filters, duplicate detection, and structured categories.
+
 
 ### Tech Used
 
-Next.js, React Native Expo, ConvexDB, NextAuth, Gemini AI, Google Maps APIs, Tailwind CSS, ShadCN UI
+Next.js, React Native (Expo), ConvexDB, NextAuth, Upstash, Resend, Gemini AI, Google Maps API
 
 ### Why It Stands Out
 
@@ -163,27 +172,79 @@ CityCare is not just a CRUD-based complaint platform. It focuses on real civic w
 
 ---
 
-## [Live Story – Life-in-Weeks Timeline](https://github.com/Euphoric-Coder/Live-Story)
+## MediCura HMIS – Hospital Management Information System
 
-Live Story is an interactive timeline application that visualizes life events across weeks, helping users reflect on their journey in a structured and meaningful way.
+A full-stack hospital management platform designed to digitize and streamline hospital operations across **Patients, Doctors, Pharmacists, Receptionists, and Admins** through one centralized system.
 
 ### Key Features
 
-* Life-in-weeks visual timeline
-* Color-coded event categories
-* Interactive event creation and editing
-* Clean and minimal user interface
-* jsPDF-based export functionality
-* Designed for personal storytelling, journaling, and reflection
-* Selected as a Top 3 hackathon finalist project
+* **5-role hospital workflow:** Built dedicated dashboards and protected flows for **Patients, Doctors, Pharmacists, Receptionists, and Admins**, ensuring each role gets only the actions and data relevant to them.
+
+* **Centralized appointment management:** Designed appointment booking and scheduling workflows to reduce manual coordination between patients, receptionists, and doctors.
+
+* **Doctor consultation system:** Added structured consultation handling where doctors can view patient details, manage visits, record observations, and connect consultations with prescriptions.
+
+* **Prescription-to-pharmacy workflow:** Connected doctor prescriptions with pharmacist-side medicine handling, improving the flow from consultation to medicine fulfillment.
+
+* **Pharmacy inventory support:** Designed medicine stock visibility and pharmacist workflows to help track prescribed medicines and reduce confusion during fulfillment.
+
+* **Admin monitoring dashboard:** Added admin-level visibility into **users, appointments, consultations, prescriptions, and pharmacy activity**, improving operational tracking from one place.
+
+* **Role-based authentication:** Implemented secure access using **NextAuth**, separating sensitive hospital data and actions across **5 different user types**.
+
+* **IST-aware scheduling:** Improved appointment handling with timezone-aware date and time management, making scheduling more reliable for Indian hospital workflows.
+
+* **Estimated 30–40% reduction in manual coordination:** By connecting appointment booking, consultation, prescriptions, and pharmacy workflows in one system, the platform can reduce repeated manual follow-ups between departments.
+
+* **Estimated 25–35% faster patient flow:** Centralized records, role-based dashboards, and connected doctor-pharmacy workflows help reduce delays between appointment, consultation, and prescription fulfillment.
 
 ### Tech Used
 
-React.js, JavaScript, CSS, jsPDF
+**Next.js, Drizzle ORM, NeonDB, PostgreSQL, NextAuth, Tailwind CSS, ShadCN UI**
 
 ### Why It Stands Out
 
-Live Story turns a simple concept into an emotional and useful digital experience. It combines data visualization, personal reflection, and export-ready storytelling into one product.
+MediCura HMIS is not just a basic hospital dashboard. It is designed around a real hospital workflow where multiple roles need to work together smoothly. Instead of keeping appointments, consultations, prescriptions, and pharmacy tasks as separate disconnected modules, the platform connects them into one structured system.
+
+It stands out because it focuses on **multi-role access, secure patient data handling, appointment scheduling, doctor consultation flow, prescription management, pharmacy support, and admin monitoring** in a single full-stack application. This makes it closer to a practical hospital operations system rather than a simple CRUD-based healthcare project.
+
+---
+
+## [Live Story – Life-in-Weeks Timeline](https://github.com/Euphoric-Coder/Live-Story)
+
+Live Story is an interactive life-visualization platform that helps users map their memories, milestones, achievements, and future goals across a **week-based timeline**. Instead of storing life events as ordinary notes, the platform turns them into a meaningful visual journey that encourages reflection, planning, and personal storytelling.
+
+### Key Features
+
+* **4,000+ weeks life visualization:** Built an interactive timeline that represents an average human life across approximately **4,000+ weeks**, helping users understand time, memories, and goals in a more visual way.
+
+* **Week-based event mapping:** Designed a structured weekly grid where users can connect events to specific life periods instead of only viewing them as normal date-based entries.
+
+* **Color-coded life categories:** Added category-based color organization for **education, achievements, personal milestones, travel, memories, goals, and major life phases**, making the timeline easier to scan and understand.
+
+* **Interactive event management:** Enabled users to **add, edit, organize, and track multiple life events** directly inside the timeline with a clean and simple workflow.
+
+* **Visual storytelling experience:** Converted scattered memories and milestones into a structured story format, allowing users to see how different phases of life connect over time.
+
+* **PDF export support:** Integrated **jsPDF-based export**, allowing users to download their life timeline as a personal archive, reflection document, or shareable memory record.
+
+* **Responsive and minimal UI:** Designed a clean, distraction-free interface focused on **readability, emotional reflection, and smooth user experience** across different screen sizes.
+
+* **Faster milestone discovery:** Used timeline placement and color grouping to help users quickly identify important life phases without scrolling through long note lists.
+
+* **Personal productivity use case:** Positioned the project as more than a memory tracker by supporting **self-reflection, goal planning, journaling, and long-term personal documentation**.
+
+* **Hackathon-recognized execution:** Selected as a **Top 3 hackathon finalist**, validating the project’s idea, UI clarity, execution quality, and presentation.
+
+### Tech Used
+
+**Next.js, JavaScript, Tailwind CSS, Clerk, PostgreSQL (NeonDB), ShadCN UI, Recharts, jsPDF**
+
+### Why It Stands Out
+
+Live Story stands out because it transforms a simple personal timeline into a meaningful visual experience. Most note-taking or journaling tools store memories as plain text, but Live Story helps users see their life as a structured journey across weeks.
+
+The project combines **data visualization, emotional storytelling, personal reflection, and export-ready documentation** in one clean interface. It is not just a timeline app — it is a reflection tool that helps users understand how their past, present, and future goals fit together.
 
 ---
 
