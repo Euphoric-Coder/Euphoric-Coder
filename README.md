@@ -22,71 +22,35 @@ My focus is not only on writing code, but on building products that feel complet
 
 ## About Me
 
-I am a **Computer Science student, full-stack developer, and AI/cloud enthusiast** who enjoys building software that is practical, scalable, and useful in real-world scenarios.
+I am a **Computer Science student and full-stack developer** focused on building practical, scalable, and real-world software products.
 
-I like working across the complete product development cycle — from understanding the problem and planning features to designing clean user interfaces, building backend logic, modeling databases, implementing authentication, integrating AI workflows, deploying applications, and improving the final user experience.
+I enjoy working across the complete development cycle — from planning features and designing clean interfaces to building backend systems, modeling databases, integrating authentication, adding AI workflows, and deploying applications.
 
-My work usually focuses on projects that go beyond simple UI screens. I enjoy building systems with **real user roles, dashboards, workflows, automation, data handling, and production-style architecture**.
+My projects usually go beyond basic UI screens. I like building systems with **real user roles, dashboards, workflows, automation, data handling, mobile flows, and production-style architecture**.
 
-Some of the areas I actively build around include **civic-tech, healthcare systems, finance tools, developer platforms, AI assistants, productivity apps, automation workflows, mobile apps, and data-driven dashboards**.
+I actively build around areas such as **civic-tech, healthcare systems, finance tools, AI assistants, developer platforms, productivity apps, and data-driven dashboards**.
 
-For me, a strong project is not only about using a modern tech stack. It should also have:
-
-* **A clear real-world problem** that the product is trying to solve
-* **A smooth and thoughtful user experience** that feels easy to use
-* **A reliable technical foundation** with clean architecture and maintainable code
-* **A practical workflow** that reflects how real users would interact with the system
-* **A scalable structure** that can grow beyond a basic prototype
-
-That is the kind of software I try to build — products that are clean, meaningful, and technically strong.
+For me, a strong project should solve a clear problem, feel smooth to use, and have a reliable technical foundation.
 
 ---
 
 ## What I Do
 
-I work mainly around **full-stack product development, AI-powered applications, mobile workflows, and cloud-ready systems**. I enjoy connecting frontend, backend, database, authentication, AI, and deployment layers into complete applications.
+I work mainly around **full-stack product development, AI-powered applications, mobile workflows, and cloud-ready systems**.
 
-### Frontend Engineering
+* **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI, Radix UI
+* **Backend:** APIs, authentication, databases, RBAC, workflows, and business logic
+* **AI Integration:** LangChain, Groq, Gemini AI, ChromaDB, RAG, semantic search, and automation
+* **Mobile:** React Native and Expo apps with role-based flows and real-time interaction
+* **Cloud & Deployment:** Vercel, Render, Netlify, AWS, and Google Cloud
+* **Dashboards:** Admin panels, analytics views, status tracking, SLA monitoring, and workflow summaries
 
-I build **responsive, clean, and modern interfaces** using **React.js, Next.js, Tailwind CSS, ShadCN UI, Radix UI, and component-based design patterns**.
-My focus is on creating interfaces that are visually polished, easy to use, and structured around real user workflows.
+I like building software with a product-first mindset — focusing on who will use it, why it matters, and how the system can grow beyond a basic prototype.
 
-### Backend Development
-
-I design backend systems with **APIs, authentication, database models, role-based access control, server-side workflows, and business logic**.
-I enjoy building systems where the backend is not just storing data, but actively supporting real operations such as approvals, assignments, status updates, dashboards, and analytics.
-
-### AI Integration
-
-I build AI-powered features using **LangChain, Groq, Gemini AI, ChromaDB, semantic search, RAG workflows, and intelligent automation pipelines**.
-I like using AI where it adds practical value, such as classification, summarization, recommendations, document understanding, content generation, and workflow automation.
-
-### Mobile Development
-
-I work with **React Native and Expo** to build mobile-first applications with **role-based flows, dashboards, secure navigation, and real-time data interaction**.
-I especially enjoy building mobile workflows for field-based use cases where users need fast access to tasks, updates, and operational data.
-
-### Cloud & Deployment
-
-I deploy and manage applications using platforms like **Vercel, Render, Netlify, AWS, and Google Cloud**.
-My focus is on making projects accessible, stable, and ready to be demonstrated or used beyond a local development environment.
-
-### Data & Dashboard Systems
-
-I build dashboards and data-driven views that help users understand activity, performance, progress, and operational status.
-This includes **admin dashboards, analytics cards, status filters, SLA tracking, user metrics, issue monitoring, and workflow summaries**.
-
-### Product Thinking
-
-I approach projects with a product-first mindset. Before building a feature, I try to think about **who will use it, why it matters, how it fits into the workflow, and how it improves the overall experience**.
-
-I believe good software is a balance of **engineering, design, usability, and purpose**.
-
----
 
 ## Tech Stack
 
-### Programming Languages
+### Core Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -97,61 +61,33 @@ I believe good software is a balance of **engineering, design, usability, and pu
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Frontend Development
+### Frontend & Mobile
 
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-### UI, Styling & Component Libraries
-
-<p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=lucide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_UI-111827?style=for-the-badge" />
 </p>
 
-### Backend Development
+### Backend, Databases & Auth
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Server_Actions-111827?style=for-the-badge" />
-</p>
-
-### Authentication & Security
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Protected_Routes-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Secure_Sessions-334155?style=for-the-badge" />
-</p>
-
-### Databases & Backend Platforms
-
-<p align="left">
   <img src="https://img.shields.io/badge/ConvexDB-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=000" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 
-### AI, LLMs & Automation
+### AI, Data & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
@@ -160,32 +96,11 @@ I believe good software is a balance of **engineering, design, usability, and pu
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG_Systems-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Semantic_Search-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Automation-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" />
-</p>
-
-### Data, Analytics & Processing
-
-<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Cleaning-1E293B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Quality-2563EB?style=for-the-badge" />
 </p>
 
-### Maps, Location & APIs
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Places_API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Geocoding_API-FBBC04?style=for-the-badge&logo=googlemaps&logoColor=000" />
-  <img src="https://img.shields.io/badge/Geo_Tagging-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location_Based_Systems-1D4ED8?style=for-the-badge" />
-</p>
-
-### Cloud, Deployment & Hosting
+### Cloud, APIs & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -193,20 +108,10 @@ I believe good software is a balance of **engineering, design, usability, and pu
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serverless-111827?style=for-the-badge" />
-</p>
-
-### Developer Tools & Workflow
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo_CLI-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
-
 
 ---
 
